@@ -1,0 +1,33 @@
+{
+  "name": "Dark-Forestech-Theme",
+  "displayName": "Dark Forestech Theme",
+  "description": "NikSharpKings's Custom VScode Dark Forest-Techy/Matrixy Theme",
+  "publisher": "DarkForestechTheme",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Niksharpkings/Dark-Forestech-Theme"
+  },
+  "keywords": [
+    "dark",
+    "forest",
+    "matrix",
+    "techy",
+    "theme"
+  ],
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Forestech Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Forestech Theme-color-theme.json"
+      }
+    ]
+  }
+}

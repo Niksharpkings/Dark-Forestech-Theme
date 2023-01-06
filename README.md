@@ -1,2 +1,7 @@
-# Dark-Forestech-Theme
-My Custom VScode Dark Forest Techy/Matrixy Theme. Thanks to npmjs.com/package/generator-code | code.visualstudio.com/docs/getstarted/themes |
+# Dark-Forestech-Theme README
+
+GitHub Repo: Https://github.com/Niksharpkings/Dark-Forestech-Theme
+
+Screenshot:
+
+![1673010125170](image/README/1673010125170.png)
