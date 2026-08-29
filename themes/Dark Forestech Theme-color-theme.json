@@ -4,15 +4,15 @@
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
     "enumMember": {
-      "foreground": "#ff00d7"
+    "foreground": "#ff00d7"
     },
     "variable.constant": {
-      "foreground": "#5cff00"
+    "foreground": "#5cff00"
     },
     "variable.defaultLibrary": {
-      "foreground": "#ffef00d7"
+    "foreground": "#ffef00d7"
     }
-  },
+    },
 	"colors": {
 		"foreground": "#429b10",
     "activityBar.activeBackground": "#4d4100",
@@ -57,7 +57,7 @@
     "editor.foldBackground": "#0075ea4d",
     "editor.foreground": "#ffffff",
     "editor.hoverHighlightBackground": "#a5cd1576",
-    "editor.inactiveSelectionBackground": "#211e21",
+    "editor.inactiveSelectionBackground": "#211e21e8",
     "editor.lineHighlightBackground": "#5cff004e",
     "editor.lineHighlightBorder": "#28736c",
     "editor.rangeHighlightBackground": "#96793474",
@@ -91,8 +91,8 @@
     "editorHoverWidget.background": "#010102",
     "editorHoverWidget.border": "#32cf4b",
     "editorHoverWidget.foreground": "#15d0e4",
-    "editorIndentGuide.activeBackground": "#387b5f",
-    "editorIndentGuide.background": "#ffb300",
+    "editorIndentGuide.activeBackground1": "#387b5f",
+    "editorIndentGuide.background1": "#ffb300",
     "editorInfo.background": "#038ee450",
     "editorInfo.border": "#009eff87",
     "editorInfo.foreground": "#0087ff",
@@ -159,16 +159,16 @@
     "menubar.selectionBackground": "#738400df",
     "menubar.selectionBorder": "#26e000",
     "menubar.selectionForeground": "#00ffcf",
-    "merge.commonContentBackground": "#282828",
-    "merge.commonHeaderBackground": "#383838",
-    "merge.currentContentBackground": "#27403B",
-    "merge.currentHeaderBackground": "#367366",
-    "merge.incomingContentBackground": "#28384B",
-    "merge.incomingHeaderBackground": "#395F8F",
+    "merge.commonContentBackground": "#282828ea",
+    "merge.commonHeaderBackground": "#383838ea",
+    "merge.currentContentBackground": "#27403Bea",
+    "merge.currentHeaderBackground": "#367366ea",
+    "merge.incomingContentBackground": "#28384Bea",
+    "merge.incomingHeaderBackground": "#395F8aaa",
     "minimap.background": "#000000",
     "minimap.errorHighlight": "#ff0000",
-    "minimap.findMatchHighlight": "#0800ff",
-    "minimap.selectionHighlight": "#202738",
+    "minimap.findMatchHighlight": "#0800ffee",
+    "minimap.selectionHighlight": "#202738aa",
     "minimap.warningHighlight": "#ffe300",
     "minimapGutter.addedBackground": "#c700ff",
     "minimapGutter.deletedBackground": "#ff000c",
